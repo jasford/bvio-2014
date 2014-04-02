@@ -1,0 +1,37 @@
+{% extends index.html %}
+
+{% block main %}
+<div class="hero-unit">
+    <h1>Welcome to BV Boilerplate</h1>
+    <p>From idea to prototyping in 5 minutes</p>
+</div>
+
+<div class="row">
+    <div class="span12">
+        <h2>Data API Example</h2>
+        <p>
+            Labs Boilerplate comes with a Bazaarvoice <a href="http://developer.bazaarvoice.com">Data API</a>
+            client baked in!  The sample review below was loaded from testcustomer data.  Check out the
+            <code>bvapi</code> directory in your project for details.
+        </p>
+        <div class="well">
+          <h4>{{ total_num_reviews }} number of reviews</h4>
+          {% for review in reviews %}
+            <h3>{{review.Product.Name or 'No Name'}}</h3>
+            <img src="{{review.Product.ImageUrl}}" alt="{{review.Product.Name}}">
+            <h3>{{review.Title or 'No title'}}</h3>
+            <p>
+              {{review.ReviewText or 'No review text'}}
+            </p>
+            <hr>
+          {% end %}
+        </div>
+    </div>
+</div>
+{% end %}
+
+{% block footer %}
+<p>
+    © Bazaarvoice 2011
+</p>
+{% end %}

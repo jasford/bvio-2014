@@ -1,0 +1,14 @@
+# Python things
+*.pyc
+
+# Intellij things
+*.iml
+*.ipr
+*.iws
+.idea
+
+# mac things
+.DS_Store
+
+# Java / maven things
+target
