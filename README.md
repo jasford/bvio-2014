@@ -24,13 +24,15 @@ We know what you're thinking: "I want all the data!".  Before you swarm our API,
 | Client| Categories | Products | Reviews | Authors | Questions | Answers |
 | ----- | ---------- | -------- | ------- | ------- | --------- | ------- |
 | [Aveeno](https://s3.amazonaws.com/nexus-public-artifacts/bvio2014/aveeno.tgz)                 |         95 |      151 |    5876 |         |           |         |
-| BestBuy  |    [9693](https://s3.amazonaws.com/nexus-public-artifacts/bvio2014/bestbuy_categories.tgz) | Pending | [1.7M (570MB)](https://s3.amazonaws.com/nexus-public-artifacts/bvio2014/bestbuy_reviews.tgz) | Pending | [194k (27MB)](https://s3.amazonaws.com/nexus-public-artifacts/bvio2014/bestbuy_questions.tgz) | [275k (42MB)](https://s3.amazonaws.com/nexus-public-artifacts/bvio2014/bestbuy_answers.tgz) |
+| BestBuy  |    [9693](https://s3.amazonaws.com/nexus-public-artifacts/bvio2014/bestbuy_categories.tgz) | [119k (127Mb)](https://s3.amazonaws.com/nexus-public-artifacts/bvio2014/bestbuy_products.tgz) | [1.7M (570MB)](https://s3.amazonaws.com/nexus-public-artifacts/bvio2014/bestbuy_reviews.tgz) | [118k (65MB)](https://s3.amazonaws.com/nexus-public-artifacts/bvio2014/bestbuy_authors.tgz) | [194k (27MB)](https://s3.amazonaws.com/nexus-public-artifacts/bvio2014/bestbuy_questions.tgz) | [275k (42MB)](https://s3.amazonaws.com/nexus-public-artifacts/bvio2014/bestbuy_answers.tgz) |
 | [Clean And Clear](https://s3.amazonaws.com/nexus-public-artifacts/bvio2014/cleanAndClear.tgz) |         10 |       94 |    2201 |         |           |         |
 | [Dove](https://s3.amazonaws.com/nexus-public-artifacts/bvio2014/dove.tgz)                     |        124 |      250 |   18808 |   18548 |           |         |
 | [Listerine](https://s3.amazonaws.com/nexus-public-artifacts/bvio2014/listerine.tgz)           |          6 |       24 |     316 |         |           |         |
 | [Neosporin](https://s3.amazonaws.com/nexus-public-artifacts/bvio2014/neosporin.tgz)           |          4 |       16 |     167 |         |           |         |
 | [Neutrogena](https://s3.amazonaws.com/nexus-public-artifacts/bvio2014/neutrogena.tgz)         |        258 |      355 |   16590 |         |           |         |
-| [Macy's (232MB)](https://s3.amazonaws.com/nexus-public-artifacts/bvio2014/macys.tgz)  |      32701 |   454691 |  809252 |  483050 |     10421 |   15283 |
+| [Macy's (232MB)](https://s3.amazonaws.com/nexus-public-artifacts/bvio2014/macys.tgz)          |      32701 |   454691 |  809252 |  483050 |     10421 |   15283 |
+
+Additionally, BestBuy has [49208 (11MB)](https://s3.amazonaws.com/nexus-public-artifacts/bvio2014/bestbuy_reviewcomments.tgz) ReviewComments.
 
 ## Layout of the Data Tar Files
 
