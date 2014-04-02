@@ -50,7 +50,7 @@ You're welcome to use any API available to you, but we wanted to mention a few t
 
 | Name | About | Links |
 | ---- | ----- | ----- |
-| [Datadog](http://www.datadoghq.com/) | Monitoring that helps turn data into actionable insight | [API](http://docs.datadoghq.com/api/) |
+| [Datadog](http://www.datadoghq.com/) | Monitoring that helps turn data into actionable insight.  For access, [sign up](http://go.datadoghq.com/bazaarvoice-hackathon-2014) for a free account. | [API](http://docs.datadoghq.com/api/) |
 | [EagleEye Networks](http://www.eagleeyenetworks.com/) | Realtime video security feeds.  For access credentials, contact <mcotton@eagleeyenetworks.com> | [API](https://apidocs.eagleeyenetworks.com/apidocs/), [Sample](https://github.com/mcotton/watcher) |
 | [FeedMagnet](http://www.feedmagnet.com/) | Provides brand focused experiences derived from social content |  |
 | [Mashery](http://www.mashery.com/) | Connecting the world through better API management | [APIs](http://developer.mashery.com/apis), [XDK](http://xdk-software.intel.com/)|
