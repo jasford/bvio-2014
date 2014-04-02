@@ -54,7 +54,7 @@ You're welcome to use any API available to you, but we wanted to mention a few t
 | ---- | ----- | ----- |
 | [Datadog](http://www.datadoghq.com/) | Monitoring that helps turn data into actionable insight.  For access, [sign up](http://go.datadoghq.com/bazaarvoice-hackathon-2014) for a free account. | [API](http://docs.datadoghq.com/api/) |
 | [EagleEye Networks](http://www.eagleeyenetworks.com/) | Realtime video security feeds.  For access credentials, contact <mcotton@eagleeyenetworks.com> | [API](https://apidocs.eagleeyenetworks.com/apidocs/), [Sample](https://github.com/mcotton/watcher) |
-| [FeedMagnet](http://www.feedmagnet.com/) | Provides brand focused experiences derived from social content |  |
+| [FeedMagnet](http://www.feedmagnet.com/) | Provides brand focused experiences derived from social content | [SDK](http://bvio.feedmagnet.com/docs/sdk/), [Instructions](feedmagnet.md) |
 | [Mashery](http://www.mashery.com/) | Connecting the world through better API management | [APIs](http://developer.mashery.com/apis), [XDK](http://xdk-software.intel.com/)|
 | [Sematext](http://www.sematext.com/) | Proactive performance monitoring & anomaly detection | [Logsene](https://sematext.atlassian.net/wiki/display/PUBLOGSENE), [Events](https://sematext.atlassian.net/wiki/display/PUBSPM/Events+Integration), [Metrics](https://sematext.atlassian.net/wiki/display/PUBSPM/Custom+Metrics) |
 | [Stripe](https://stripe.com/) | Making payments over the internet managable | [API](https://stripe.com/docs/api), [Docs](https://stripe.com/docs) |
